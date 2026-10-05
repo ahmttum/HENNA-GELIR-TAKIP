@@ -1,0 +1,11 @@
+{
+  "name": "HENNA Butik Doğaltaş Gelir Takip",
+  "short_name": "HENNA Takip",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f1ed",
+  "theme_color": "#4b3428",
+  "description": "HENNA Butik Doğaltaş çevrimdışı gelir, satış ve gider takip uygulaması.",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
